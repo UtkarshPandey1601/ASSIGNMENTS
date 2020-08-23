@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CODING BLOCKS JR</title>
+</head>
+<body>
+   <h1>CODING BLOCKS JR WEB DEVELOPENT</h1> 
+   <a href="#two"  target="_blank" >Link to section 2</a>
+   <br> <br>
+   <a href="abc.html" target="_blank"</a>Link to abc.html</a>
+   <br> <br>
+   <a href="abc.html#ef"  target="_blank"</a>Link to place 3 of abc.html</a>
+   <br> <br>
+   <a href="xyz.html"  target="_blank" </a>Link to xyz.html</a>
+   <br> <br>
+   <a href="xyz.html#tu"  target="_blank"</a>Link to food 3 of xyz.html</a>
+
+   <h2>SECTION 1</h2>
+   This contains the links by which you can directly jump to another page.
+   <br><br>
+   <a href="https://www.google.co.in/"  target="_blank" >LINK TO GOOGLE</a>
+   <br> <br> 
+   <a href="https://www.youtube.com/"  target="_blank" >LINK TO YOU TUBE</a>
+   <br> <br> 
+   <a href="https://codingblocks.com/"  target="_blank" >LINK TO CODING BLOCKS</a>
+   <br> <br> 
+   <a href="https://github.com/"  target="_blank" >LINK TO GITHUB</a>
+   <br> <br> 
+   <a href="https://www.wikipedia.org/"  target="_blank" >LINK TO WIKIPEDIA</a>
+   <br> <br> 
+
+   <h2 id="two">SECTION 2 </h2>
+   This contains the links by which you can directly call a organisation.
+   <br><br>
+   <a href="tel:+99982763338"  target="_blank" >CALL TO JIO HELPLINE</a>
+   <br> <br> 
+   <a href="tel:+99945555145"  target="_blank" >CALL TO COVID HELPLINE</a>
+   <br> <br> 
+   <a href="tel:+99982764464"  target="_blank" >CALL TO CODING BLOCKS</a>
+   <br> <br> 
+   <a href="tel:+56542763338"  target="_blank" >CALL TO POLICE </a>
+   <br> <br> 
+   <a href="tel:+99985677666"  target="_blank" >CALL FOR AMBULANCE</a>
+
+   <h2>SECTION 3</h2>
+   This contains the links by which you can directly mail an organisation.
+   <br><br>
+   <a href="mailto:websiteowner@gmail.com"   >MAIL TO WEBSITE QWNER</a>
+   <br> <br> 
+   <a href="mailto:github@gmail.com"  >MAIL TO GITHUB</a>
+   <br> <br> 
+   <a href="mailto:support@gmail.com"  >MAIL TO CODING BLOCKS</a>
+   <br> <br> 
+   <a href="mailto:facebook@gmail.com"   >MAIL TO FACEBOOK</a>
+   <br> <br> 
+   <a href="mailto:wikipedia@gmail.com"  >MAIL TO WIKIPEDIA</a>
+   <br><br>
+   <h2>SECTION 4</h2>
+
+   Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quae quia a natus perferendis saepe enim accusantium deserunt quos! Voluptatem illum ipsam maxime ea praesentium quo enim dolor voluptas architecto.
+
+
+
+</body>
+</html>
