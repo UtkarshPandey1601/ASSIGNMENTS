@@ -1,0 +1,46 @@
+body{background-color: black;
+text-align: center;
+color: white;
+font-size: x-large;
+font-weight: bolder;
+font-family: 'Sansita Swashed', cursive; ;}
+p{text-align: justify;}
+h2{color: red;
+text-shadow: 0 1px #808d93,
+-1px 0 #cdd2d5,
+-1px 2px #808d93,
+-2px 1px #cdd2d5,
+-2px 3px #808d93,
+-3px 2px #cdd2d5,
+-3px 4px #808d93,
+-4px 3px #cdd2d5,
+-4px 5px #808d93,
+-5px 4px #cdd2d5,
+-5px 6px #808d93,
+-6px 5px #cdd2d5,
+-6px 7px #808d93,
+-7px 6px #cdd2d5,
+-7px 8px #808d93,
+-8px 7px #cdd2d5;;}
+h1{ color: yellow;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.7),
+                 5px 5px 1px orange,
+                 6px 6px 2px rgba(0,0,0,0.7),
+                 10px 10px 1px red,
+                 11px 11px 2px rgba(0,0,0,0.7),
+                 15px 15px 1px purple,
+                 16px 16px 2px rgba(0,0,0,0.7);
+}
+h3{
+    text-shadow: 0 0 20px #fefcc9,
+                 10px -10px 30px #feec85,
+                 -20px -20px 40px #ffae34,
+                 20px -30px 35px #ec760c,
+                 -20px -40px 40px #cd4606,
+                 0 -50px 65px #973716,
+                 10px -70px 70px #451b0e;}
+.p1{text-decoration: line-through;
+color: antiquewhite;}
+.p2{text-decoration: overline;}
+.p3{text-decoration: underline;
+color: #fefcc9;}
