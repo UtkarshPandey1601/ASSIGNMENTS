@@ -1,0 +1,30 @@
+body{background-color: aqua;
+border-style: groove;
+border-width: 30px;
+border-color: green;}
+
+.qw{border-top: black;
+border-top-style:double;
+border-top-width: 10px ;
+border-bottom: black;
+border-bottom-style:double;
+border-bottom-width: 10px ;}
+
+
+.po{border-style: dashed;
+border-width: 20px;
+border-radius: 10%;
+border-color: red;}
+
+.as{border-top: greenyellow;
+    border-top-style:double;
+    border-top-width: 10px ;
+    border-bottom: greenyellow;
+    border-bottom-style:double;
+    border-bottom-width: 10px ;}
+
+.op{border-style: dashed;
+    border-width: 20px;
+    border-radius: 10%;
+    border-color: red;}
+
